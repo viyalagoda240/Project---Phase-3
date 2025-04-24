@@ -1,10 +1,13 @@
-###📖 RecipeBook
+# 📖 RecipeBook
+
 A stylish and interactive **Digital Recipe Book** web application developed for the COM 2303 Web Design Mini Project at Rajarata University of Sri Lanka.
+
+---
 
 ## 🌐 Live Website
 
 🔗 [Visit RecipeBook](#)  
-*(Replace this with your live project link if hosted online)*
+*http://recipebook.fwh.is/Project---Phase-3/index.php*
 
 ---
 
