@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.social-icons a {
+    color: #ffffff;
+    margin: 0 10px;
+    font-size: 1.5rem;
+}
+
+.social-icons a:hover {
+    color: #00aced;
+}
+
+.form-control,
+.btn {
+    border-radius: 0;
+}
+
+.contact-us {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.contact-us h5 {
+    margin-bottom: 20px;
+}
+
+.contact-us .form-control {
+    background-color: #444;
+    color: #fff;
+    border: none;
+}
+
+.contact-us .form-control::placeholder {
+    color: #bbb;
+}
+
+.contact-us .btn {
+    background-color: #555;
+    color: #fff;
+}
+
+.contact-us .btn:hover {
+    background-color: #777;
+}
