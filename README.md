@@ -104,7 +104,7 @@ If you don't find the contact email in your inbox, please check your spam folder
 
 - 📘 **Course:** COM 2303 – Web Design  
 - 🏫 **University:** Rajarata University of Sri Lanka  
-- 👨‍🎓 **Developer:** W.M. Dilshan Udesh Viyalagoda *(replace with your actual name)*  
+- 👨‍🎓 **Developer:** W.M. Dilshan Udesh Viyalagoda 
 - 📅 **Semester:** 2nd Year 1st Semester  
 - 📝 **Assignment:** Mini Project Phase 3
 
