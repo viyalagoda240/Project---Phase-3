@@ -341,7 +341,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES ('dil','Dilshan','Udesh','12345','viyalagoda229@gmail.com','0714230844','resource/profilePic/dil.jpeg','1','679a6bf31824a'),('hash','Hashan','Rangan','12345','viyalagoda240@gmail.com','0704464510',NULL,'0',NULL);
+INSERT INTO `user` VALUES ('dil','Dilshan','Udesh','12345','viyalagoda229@gmail.com','0702233568','resource/profilePic/dil.jpeg','1','679a6bf31824a'),('hash','Hashan','Rangan','12345','viyalagoda240@gmail.com','0123355685',NULL,'0',NULL);
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
