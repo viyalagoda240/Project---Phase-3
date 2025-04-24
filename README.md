@@ -6,14 +6,13 @@ A stylish and interactive **Digital Recipe Book** web application developed for 
 
 ## 🌐 Live Website
 
-🔗 [Visit RecipeBook](#http://recipebook.fwh.is/Project---Phase-3/index.php)
+🔗 [Visit RecipeBook](http://recipebook.fwh.is/Project---Phase-3/index.php)
 
 ---
 
 ## 🔐 Admin Panel
 
-🔗 [Admin Login](#)  
-(http://recipebook.fwh.is/Project---Phase-3/AdminPanel/adminSignIn.php)
+🔗 [Admin Login](http://recipebook.fwh.is/Project---Phase-3/AdminPanel/adminSignIn.php)
 
 ### Credentials
 - **Email:** *provided in LMS*
