@@ -13,7 +13,7 @@ A stylish and interactive **Digital Recipe Book** web application developed for 
 ## 🔐 Admin Panel
 
 🔗 [Admin Login](#)  
-[*(Replace this with your admin login page link)*](http://recipebook.fwh.is/Project---Phase-3/AdminPanel/adminSignIn.php)
+(http://recipebook.fwh.is/Project---Phase-3/AdminPanel/adminSignIn.php)
 
 ### Credentials
 - **Email:** *provided in LMS*
